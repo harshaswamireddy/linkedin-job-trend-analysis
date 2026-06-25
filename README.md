@@ -30,11 +30,9 @@ Created a comprehensive analytical pipeline that transforms unstructured web dat
 
 ---
 
-## Dashboard / Project Preview *(Optional but HIGHLY RECOMMENDED)*
+## Dashboard / Project Preview
 
-```markdown
 ![Top 10 Skills Heatmap](Top_10_Skills_Heatmap.png)
-```
 
 ---
 
